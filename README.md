@@ -1,2 +1,5 @@
 # hello-world
-This is my Repository
+
+Hey,
+
+Marco here. I'm here to learn new stuff!
